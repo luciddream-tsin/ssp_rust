@@ -191,9 +191,6 @@ fn main_004() {
 
 
 
-
-
-
 use std::fmt::{Display};
 struct City {
     name: &'static str,
